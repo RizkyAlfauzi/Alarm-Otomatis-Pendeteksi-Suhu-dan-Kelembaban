@@ -9,6 +9,6 @@ Sensor DHT11 adalah mengukur suhu dan kelembaban lingkungan sekitar. Sensor DHT1
 5. LCD 16x2 untuk menampilkan suhu, kelembapan, dan status AC secara real-time.
 
 # Source Code 
-D:\TUGAS KULIAH\Pembelajaran\Website Travel\arduino.cpp
+
 # Kesimpulan
 Proyek Alarm Otomatis Suhu dan Kelembapan dengan Kontrol AC menggunakan Arduino Uno sebagai mikrokontroler utama untuk memantau suhu dan kelembapan ruangan secara real-time. Sistem ini terhubung dengan sensor DHT11 untuk mengukur suhu dan kelembapan, dan menggunakan relay module untuk mengontrol AC berdasarkan ambang batas suhu dan kelembapan yang telah ditentukan.
